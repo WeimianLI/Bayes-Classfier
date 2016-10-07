@@ -2,8 +2,6 @@ import numpy as np
 import cv2
 
 
-#==================================MNIST Classify======================================
-
 def imgBinaryzation(imgs):
 	for i in range(len(imgs)):
 		cv_img = imgs[i].astype(np.uint8)
