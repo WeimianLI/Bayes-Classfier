@@ -5,4 +5,4 @@ Use
 
 You need to download the mnist dataset and letter-recognition dataset by yourself, and then change the file path in readMNIST.py and readLetterSet.py to find your dataset.
 
-Then you can run 'python run_mnistDet.py or run_letterDet.py' to excute the detection.
+Then you can run  'python run_mnistDet.py'  or  'run_letterDet.py'.
